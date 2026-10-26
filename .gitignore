@@ -1,0 +1,4 @@
+# Ignore large files
+pothole detection/pothoels-segmentation/7.mp4
+pothole detection/pothoels-segmentation/best.pt
+.DS_Store
